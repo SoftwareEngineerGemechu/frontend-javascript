@@ -1,0 +1,12 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Webpack output
+dist/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs
+*.log
+
