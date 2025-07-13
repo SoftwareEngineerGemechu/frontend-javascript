@@ -9,4 +9,4 @@ dist/
 
 # Ignore logs
 *.log
-
+node_modules/\ndist/
